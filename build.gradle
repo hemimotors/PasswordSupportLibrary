@@ -42,7 +42,7 @@ android {
 publish {
     groupId = 'com.github.hemimotors'
     artifactId = 'passwordsupportlibrary'
-    publishVersion = '0.0.3'
+    publishVersion = '0.0.4'
     desc = 'Sample Demo explaining PasswordView Component.'
     licences = ['MIT']
     website = 'https://github.com/hemimotors/ApiWorker'
